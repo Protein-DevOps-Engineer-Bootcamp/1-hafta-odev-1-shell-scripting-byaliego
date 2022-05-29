@@ -21,7 +21,7 @@ This script has planned to be schedully work every minute thanks to cron. It che
 
 Mail Example:
 
-![Alt text](../example_ss/disk_alert.png?raw=True "Disk Alert Example")
+![Alt text](../example_ss/alert_ex.png?raw=True "Disk Alert Example")
 
 
 
