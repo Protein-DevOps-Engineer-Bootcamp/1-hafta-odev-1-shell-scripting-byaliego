@@ -19,7 +19,9 @@ last_work_time: /tmp/yedekleme_scripti_son_calisma_saati.log
 
 This script has planned to be schedully work every minute thanks to cron. It checks every minute if any of partitions or disks use exceed the 90% threshold value; and send an email to the specified user about alert. In my script it has been set as `yigitogun@gmail.com` but needs to be replaced according to user needs.
 
+Mail Example:
 
+![Alt text](../example_ss/disk_alert.png?raw=True "Disk Alert Example")
 
 
 
